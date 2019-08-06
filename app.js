@@ -10,22 +10,7 @@ var CampG = [
     { name : "NNRandom", image : "https://picsum.photos/200"},
     { name : "NNRandom", image : "https://picsum.photos/200"},
 
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-    { name : "NNRandom", image : "https://picsum.photos/200"},
-    { name : "NNRandom", image : "https://picsum.photos/200"},
     { name : "NNRandom", image : "https://picsum.photos/200"}
-
     
 ];
 app.get("/", function(req,res){
